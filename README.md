@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 I learned how to layout a webpage using CSS FlexBox and also add responsiveness to webpage
-using CSS media query.
+using CSS media query. Then i found another way to add responsiveness without using media query.
 
 ### Continued development
 
